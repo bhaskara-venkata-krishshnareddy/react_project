@@ -15,8 +15,6 @@ dist/
 build/
 *.log
 
-
-
 # testing
 /coverage
 
